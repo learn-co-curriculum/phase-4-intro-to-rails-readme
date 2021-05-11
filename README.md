@@ -49,7 +49,7 @@ decade developing the tools necessary for getting applications built.
 - **A Ruby Gem**: At its core, Ruby on Rails is simply a set of Ruby code
   libraries, and since the entire codebase is open source you have the ability to
   review the framework to better understand how it works.
-- **A MVC framework**: MVC stands for Model-View-Controller. MVC is a popular
+- **An MVC framework**: MVC stands for Model-View-Controller. MVC is a popular
   application architecture that helps developers naturally separate concerns and
   organize their applications properly. This setup encourages a specific set of
   conventions, such as placing the logic for the application in the model files,
@@ -87,7 +87,7 @@ mature framework with a lot of great features. While we'll be covering a good
 amount of those features in this phase, there's a whole lot more to explore.
 
 The [Rails Guides][rails-guides] are full of great examples and are always kept
-up-to-date with the latest version of Rails, so they should be your go-to source
+up to date with the latest version of Rails, so they should be your go-to source
 any time you're curious about what Rails can do.
 
 [rails-guides]: https://guides.rubyonrails.org/
