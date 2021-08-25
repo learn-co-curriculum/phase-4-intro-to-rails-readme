@@ -91,3 +91,11 @@ up to date with the latest version of Rails, so they should be your go-to source
 any time you're curious about what Rails can do.
 
 [rails-guides]: https://guides.rubyonrails.org/
+
+## Check For Understanding
+
+Before you move on, make sure you can answer the following questions:
+
+1. What do we mean when we say that Rails is a *framework*?
+2. What do we mean when we say that Rails is *opinionated*? What are the
+   advantages and disadvantages of this characteristic of Rails?
