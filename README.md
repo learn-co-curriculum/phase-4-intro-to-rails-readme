@@ -86,9 +86,9 @@ As you're learning about Rails, make sure to bookmark the
 mature framework with a lot of great features. While we'll be covering a good
 amount of those features in this phase, there's a whole lot more to explore.
 
-The [Rails Guides][rails-guides] are full of great examples and are always kept
-up to date with the latest version of Rails, so they should be your go-to source
-any time you're curious about what Rails can do.
+The Rails guides are full of great examples and are always kept up to date with
+the latest version of Rails, so they should be your go-to source any time
+you're curious about what Rails can do.
 
 [rails-guides]: https://guides.rubyonrails.org/
 
@@ -96,6 +96,6 @@ any time you're curious about what Rails can do.
 
 Before you move on, make sure you can answer the following questions:
 
-1. What do we mean when we say that Rails is a *framework*?
-2. What do we mean when we say that Rails is *opinionated*? What are the
+1. What do we mean when we say that Rails is a _framework_?
+2. What do we mean when we say that Rails is _opinionated_? What are the
    advantages and disadvantages of this characteristic of Rails?
